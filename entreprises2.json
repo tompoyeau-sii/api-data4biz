@@ -1,0 +1,322 @@
+[
+  {
+    "entreprise_id": "1",
+    "entreprise_nom": "Codit",
+    "entreprise_logo": "../assets/img/entreprises/codit.png",
+    "entreprise_resume": "Codit est une société informatique qui fournit des services de conseil, de technologie et de gestion de niveau supérieur à des marques leaders. Créée en 2000, la société propose des solutions cloud intelligentes qui permettent aux données de mieux être exploitées et qui facilitent la vie des salariés. Elle a été fondée par Bernard Lenssens.",
+    "entreprise_video": "",
+    "entreprise_loc": "",
+    "entreprise_mail": "nicolas.coudert@codit.eu",
+    "collab_nom": "Nicolas Coudert",
+    "collab_resume": "Fort de plus de 20 années d’expérience dans l’IT et l’OT, dont une fonction de direction consacrée à l’IoT et à l’Intelligent Edge chez Microsoft, Nicolas apporte un point de vue affuté et une expertise reconnue pour assumer un large éventail de responsabilités au poste de Directeur Général chez Codit France.",
+    "collab_photo": "../assets/img/collab/coudert.png",
+    "collab_linkedin": "https://www.linkedin.com/in/ncoudert/",
+    "collab_site": "https://www.codit.eu/fr/",
+    "entreprise_partenaires": [
+      {
+        "partenaire_nom": "test",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test1",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test2",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test3",
+        "partenaire_logo": ""
+      }
+    ]
+  },
+  {
+    "entreprise_id": "2",
+    "entreprise_nom": "EADEN",
+    "entreprise_logo": "../assets/img/entreprises/eaden.png",
+    "entreprise_resume": "Eaden est une société d’exploitation de la donnée. Créée en 2018, elle accompagne les spécialistes du machine learning et de l'intelligence artificielle du secteur agricole. Son objectif est de développer les compétences, les outils et les services dans les entreprises en pleine mutation numérique. Elle utilise la data science pour aider à transformer de grands volumes de données en information de valeurs. Elle est dirigée par Thomas Decers.",
+    "entreprise_video": "",
+    "entreprise_loc": "",
+    "entreprise_mail": "tdecers@eaden.fr",
+    "collab_nom": "Thomas Decers",
+    "collab_resume": "Thomas DECERS, 32 ans, ingénieur agronome de formation (AgroParisTech). Curiosité, créativité et rigueur sont des valeurs qui l’animent. Il a travaillé pendant 5 ans à Paris pour développer des services de valorisation de données dans le domaine de l’élevage des ruminants. Les deux pieds dans l’agriculture depuis son plus jeune âge, il a plaisir à allier mes compétences en mathématiques et informatique sur des thématiques agricoles. Depuis 3 ans, il dirige la société Eaden qu’il a créée où il peux répondre à des problématiques d’entreprises, mais aussi développer en interne de nouveaux services basés sur l’intelligence artificielle. Eaden fait par exemple de la lecture intelligente de documents pris en photo ou pdf, ainsi que de la reconnaissance faciale d’animaux. Le point commun entre ces deux services : réduire le poids de l’administratif et des contrôles aux agriculteurs, deux aspects vraiment chronophage et source de pression.",
+    "collab_photo": "../assets/img/collab/decers.png",
+    "collab_linkedin": "https://www.linkedin.com/in/thomas-decers/",
+    "collab_site": "https://www.eaden.fr/",
+    "entreprise_partenaires": [
+      {
+        "partenaire_nom": "test",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test1",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test2",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test3",
+        "partenaire_logo": ""
+      }
+    ]
+  },
+  {
+    "entreprise_id": "3",
+    "entreprise_nom": "Data Tell Story Corp",
+    "entreprise_logo": "../assets/im/entreprises/dtsc.png",
+    "entreprise_resume": "Data Tell Story Corp est une entreprise d’exploitation de la donnée. Créée en 2020, elle vise à valoriser les flux de données présentes dans les entreprises mais non exploitées. Elle apporte des solutions aux organisations sur les phénomènes qui les impactent au niveau opérationnel, décisionnel et stratégique. Elle est dirigée par Laurent Bresson.",
+    "entreprise_video": "",
+    "entreprise_loc": "",
+    "entreprise_mail": "laurent@datatellstory.com",
+    "collab_nom": "Laurent Bresson",
+    "collab_resume": "",
+    "collab_photo": "../assets/img/collab/bresson.png",
+    "collab_linkedin": "https://www.linkedin.com/in/laurent-bresson-65798220/",
+    "collab_site": "https://datatellstory.com/",
+    "entreprise_partenaires": [
+      {
+        "partenaire_nom": "test",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test1",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test2",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test3",
+        "partenaire_logo": ""
+      }
+    ]
+  },
+  {
+    "entreprise_id": "4",
+    "entreprise_nom": "Stat & More",
+    "entreprise_logo": "../assets/img/entreprises/s&m.png",
+    "entreprise_resume": "Stat & More est une société de conseils en statistiques. Créée en 2013, Stat & More propose 5 services : conseil en statistique, traitement des données, automatisation, data coaching et formation. Elle fournit des conseils et analyses statistiques tout au long d’une étude, expérimentale ou observationnelle. Elle est dirigée par Benoit Riou.",
+    "entreprise_video": "",
+    "entreprise_loc": "16 Place de l'éperon, 72000 Le Mans, France",
+    "entreprise_mail": "benoit.riou@statandmore.com",
+    "collab_nom": "Benoit Riou",
+    "collab_resume": "Benoît couvre toute la production. Il travaille avec les clients de Stat & More pour imaginer des processus analytiques afin de répondre efficacement aux problèmes des clients finaux sur les différentes composantes d’un projet d’étude, de la collecte de données à l’analyse et au reporting. Après les analyses, il aide le conseil de gestion des clients à traduire les résultats de l’étude en plans d’action opérationnels.",
+    "collab_photo": "../assets/img/collab/coudert.png",
+    "collab_linkedin": "https://www.linkedin.com/in/benoitriou/",
+    "collab_site": "https://statandmore.com/fr/",
+    "entreprise_partenaires": [
+      {
+        "partenaire_nom": "test",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test1",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test2",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test3",
+        "partenaire_logo": ""
+      }
+    ]
+  },
+  {
+    "entreprise_id": "5",
+    "entreprise_nom": "Voxymore",
+    "entreprise_logo": "../assets/img/entreprises/voxymore.png",
+    "entreprise_resume": "Voxymore est une société qui utilise l’Intelligence Artificielle afin de traiter le Signal, la Voix et le Langage. Créée en 2019, elle propose 5 services : la technologie de la voix (transcription), la technologie du langage (traitement), la gamme BOTifull (bots intelligents), la gamme INcall (appels téléphoniques) et la gamme BioVox (biométrie vocale). Elle est dirigée par Ahmed Gabal.",
+    "entreprise_video": "",
+    "entreprise_loc": "",
+    "entreprise_mail": "",
+    "collab_nom": "Ahmed Gabal",
+    "collab_resume": "",
+    "collab_photo": "../assets/img/collab/.png",
+    "collab_linkedin": "https://www.linkedin.com/in/ahmedgabal/",
+    "collab_site": "https://www.voxymore.com/fr/",
+    "entreprise_partenaires": [
+      {
+        "partenaire_nom": "test",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test1",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test2",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test3",
+        "partenaire_logo": ""
+      }
+    ]
+  },
+  {
+    "entreprise_id": "6",
+    "entreprise_nom": "Statésia",
+    "entreprise_logo": "../assets/img/entreprises/statesia.jpg",
+    "entreprise_resume": "Statésia est un bureau d’études économiques et statistiques intervenant dans le domaine de la santé. Créée en 2005, il est spécialisé dans l’évaluation des produits, technologies et stratégies de santé innovants à destination des acteurs publics et privés des systèmes de santé. Statésia est dirigée par Franck Maunoury.",
+    "entreprise_video": "",
+    "entreprise_loc": "",
+    "entreprise_mail": "",
+    "collab_nom": "Franck Manoury",
+    "collab_resume": "",
+    "collab_photo": "../assets/img/collab/.png",
+    "collab_linkedin": "https://www.linkedin.com/in/franck-maunoury-phd-865ab36/",
+    "collab_site": "https://statesia.com/fr/",
+    "entreprise_partenaires": [
+      {
+        "partenaire_nom": "test",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test1",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test2",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test3",
+        "partenaire_logo": ""
+      }
+    ]
+  },
+  {
+    "entreprise_id": "7",
+    "entreprise_nom": "Pyogo",
+    "entreprise_logo": "../assets/img/entreprises/pyogo.png",
+    "entreprise_resume": "Pyogo est une société de service dédiée au bien-être en entreprise. Créée en 2022, elle est spécialisée dans l’analyse stratégique et le pilotage à 360° de solutions visant à ancrer la santé dans la stratégie globale et RSE des entreprises. Son objectif est d’améliorer la performance des entreprises et le bien-être des salariés. Pyogo est dirigé par Céline Hochard.",
+    "entreprise_video": "",
+    "entreprise_loc": "",
+    "entreprise_mail": "",
+    "collab_nom": "Céline Hochard",
+    "collab_resume": "",
+    "collab_photo": "../assets/img/collab/.png",
+    "collab_linkedin": "https://www.linkedin.com/in/celine-hochard-entrepreneuse-engagee/",
+    "collab_site": "https://www.pyogo.fr/",
+    "entreprise_partenaires": [
+      {
+        "partenaire_nom": "test",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test1",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test2",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test3",
+        "partenaire_logo": ""
+      }
+    ]
+  },
+  {
+    "entreprise_id": "8",
+    "entreprise_nom": "SII",
+    "entreprise_logo": "../assets/img/entreprises/sii.png",
+    "entreprise_resume": "Notre positionnement hybride autour du Conseil en Technologies et des Services Numériques, nous permet d’accompagner les grands groupes de tous les secteurs économiques, dans l’intégration des nouvelles technologies et des méthodes de management de l’innovation. Notre mission : faire évoluer les systèmes d’information et contribuer à la conception et au développement des futurs produits ou services de nos clients !",
+    "entreprise_video": "",
+    "entreprise_loc": "",
+    "entreprise_mail": "eric.gourmel@sii.fr",
+    "collab_nom": "Eric Gourmel",
+    "collab_resume": "",
+    "collab_photo": "../assets/img/collab/gourmel.png",
+    "collab_linkedin": "https://www.linkedin.com/in/eric-gourmel-1b3a93154/",
+    "collab_site": "https://sii-group.com/fr-FR",
+    "entreprise_partenaires": [
+      {
+        "partenaire_nom": "test",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test1",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test2",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test3",
+        "partenaire_logo": ""
+      }
+    ]
+  },
+  {
+    "entreprise_id": "9",
+    "entreprise_nom": "GetTime",
+    "entreprise_logo": "../assets/img/entreprises/gettime.png",
+    "entreprise_resume": "GetTime est une société d’exploitation et de gestion de la donnée. Créée en 2018, l’entreprise est spécialisée dans la valorisation et l’entretien de la data. Son objectif est de libérer la performance cachée dans chaque organisation et d’optimiser ses processus métiers. Elle est dirigée par Cédric Falconnet.",
+    "entreprise_video": "",
+    "entreprise_loc": "57 boulevard Demorieux 72100 Le Mans",
+    "entreprise_mail": "cedric@gettime.tech",
+    "collab_nom": "Cédric Falconnet",
+    "collab_resume": "Ancien directeur financier et j’accompagne aujourd’hui  les entreprises en tant que consultant spécialisé dans la gestion de la qualité de la donnée… La data est un élément clé pour le futur des entreprises, c’est un véritable actif à valoriser et entretenir. Des données de qualités sont la base pour la réussite des projets futur.",
+    "collab_photo": "../assets/img/collab/.png",
+    "collab_linkedin": "https://www.linkedin.com/in/c%C3%A9dric-falconnet-b6196329/",
+    "collab_site": "gettime.tech",
+    "entreprise_partenaires": [
+      {
+        "partenaire_nom": "test",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test1",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test2",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test3",
+        "partenaire_logo": ""
+      }
+    ]
+  },
+  {
+    "entreprise_id": "10",
+    "entreprise_nom": "",
+    "entreprise_logo": "../assets/img/entreprises.png",
+    "entreprise_resume": "",
+    "entreprise_video": "",
+    "entreprise_loc": "",
+    "entreprise_mail": "",
+    "collab_nom": "",
+    "collab_resume": "",
+    "collab_photo": "../assets/img/collab/.png",
+    "collab_linkedin": "",
+    "collab_site": "",
+    "entreprise_partenaires": [
+      {
+        "partenaire_nom": "test",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test1",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test2",
+        "partenaire_logo": ""
+      },
+      {
+        "partenaire_nom": "test3",
+        "partenaire_logo": ""
+      }
+    ]
+  }
+]
